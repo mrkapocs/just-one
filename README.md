@@ -1,7 +1,7 @@
-# JustOne
-
 > [!IMPORTANT]
 > Buy the game [here](https://www.rprod.com/en/games/just-one)
+
+# JustOne
 
 >To save the last minute new year's eve party, I decided to create a web app that allows us to play the game **Just One**.
 
@@ -13,5 +13,3 @@ If two or more players write the same word, the word is removed from the list of
 
 ## Preview
 [![JustOne](media/just-one-project.png)](media/just-one-project.png)
-
-## Support
